@@ -1,4 +1,6 @@
 ## Hi there 👋
+### 🚀 My Tech Stack
+[![My Skills](skillicons.dev)](https://skillicons.dev)
 
 <!--
 **sayazian/sayazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

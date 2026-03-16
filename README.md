@@ -2,7 +2,7 @@
 ## Hi there 👋
 ### 🚀 My Tech Stack
 -->
-![My Skills](https://skillicons.dev/icons?i=java,javascript,spring,mysql)
+![My Skills](https://skillicons.dev/icons?i=java,javascript,python,mysql)
 
 <!--
 **sayazian/sayazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
